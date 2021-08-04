@@ -1,0 +1,20 @@
+ <div class="content" role="main">
+
+   <div class="row">
+     <button type="button" class="button" (click)="shuffleItems(numberList.numberListObj)">SHUFFLE</button>
+
+     <button type="button" class="button" (click)="sortItems(numberList.numberListObj)">SHORT</button>
+   </div>
+
+   <div class="card-container">
+     <a class="card" [ngStyle]="{'background-color': xnum.color }" *ngFor="let xnum of numberList.numberListObj">
+       <span class="box-num">{{xnum.num}}</span>
+     </a>
+
+
+   </div>
+
+
+ </div>
+
+ 
