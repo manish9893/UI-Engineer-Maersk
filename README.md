@@ -18,7 +18,7 @@ https://github.com/manish9893/UI-Engineer-Maersk.git Repository having below ass
 
 
 
-Execution :
+**Execution :**
 
  **Maersk-Assignment**  : clone the project to appropriate location , go to folder ie (Maersk-Assignment->run index.html file )
 
