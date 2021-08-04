@@ -1,4 +1,4 @@
-//populate date by OnInit function
+//populate data by OnInit function
 function OnInit (){
   this.numberList = {
     "numberListObj":
