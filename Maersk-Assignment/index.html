@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Maersk Exercise</title>
+  <script src="scripts/javascript.min.js"></script>
+  <script src="scripts/main.js"></script>
+  <link href="styles/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body onload="OnInit()">
+  <div class="content" role="main">
+    <div id="listVar" style="display: none;"></div>
+    <div class="row">
+      <button type="button" class="button" onclick="shuffleItems(document.getElementById('listVar').value)">SHUFFLE</button>
+      <button type="button" class="button" onclick="sortItems(document.getElementById('listVar').value)">SHORT</button>
+    </div>
+    <div class="card-container">
+      <div class="card-container" id="myHTMLWrapper"></div>
+    </div>
+  </div>
+</body>
+</html>
