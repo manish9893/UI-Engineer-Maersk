@@ -18,12 +18,16 @@ https://github.com/manish9893/UI-Engineer-Maersk.git Repository having below ass
 
 
 
-Execution :
+**Execution :**
 
  **Maersk-Assignment**  : clone the project to appropriate location , go to folder ie (Maersk-Assignment->run index.html file )
 
 **Maersk-Exercise**: a.Clone the project to appropriate location; 
-					 b. execute npm install 
-					 c. after installation execute ng serve
-					 d. server started on local host
-					 e. http://localhost:4200
+
+		     b. execute npm install 
+		     
+		     c. after installation execute ng serve
+		     
+		     d. server started on localhost
+		     
+		     e. http://localhost:4200
