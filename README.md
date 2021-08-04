@@ -28,6 +28,6 @@ https://github.com/manish9893/UI-Engineer-Maersk.git Repository having below ass
 		     
 		     c. after installation execute ng serve
 		     
-		     d. server started on local host
+		     d. server started on localhost
 		     
 		     e. http://localhost:4200
